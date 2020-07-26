@@ -1,0 +1,9 @@
+/* 鼠标样式 */
+* {
+  /* cursor: url('https://cdn.jsdelivr.net/gh/wallleap/cdn@latest/img/cursor/normal.cur'), auto !important; */
+  cursor: url('https://cdn.jsdelivr.net/gh/tooikioku/cdn//img/miku_normal.cur'), auto !important;
+}
+:active {
+  /* cursor: url('https://cdn.jsdelivr.net/gh/wallleap/cdn@latest/img/cursor/No_Disponible.cur'), auto !important; */
+  cursor: url('https://cdn.jsdelivr.net/gh/tooikioku/cdn//img/miku_hover.cur'), auto !important;
+}
